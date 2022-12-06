@@ -7,4 +7,4 @@ Mi objetivo es seguir aprendiendo de este mundo tecnologico y poder utilizar mi 
 Puedes Encontrarme en:
 
 - [GitHub (@miguelbel00)](https://github.com/miguelbel00)
-- [linkedin](https://www.linkedin.com/in/miguelbel00/)
+- [Linkedin](https://www.linkedin.com/in/miguelbel00/)
