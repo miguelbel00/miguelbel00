@@ -1,10 +1,11 @@
 ### Hola, Soy [Miguel Beltran](https://www.linkedin.com/in/miguelbel00/).
 
-Desarrollador FullStack graduado de Soy Henry donde he podido aprender varios lenguajes de programacion tales como JavaScript, Node , React y Express con los cuales pude crear varias aplicaciones entre ellas un ecommerce en donde he podido aplicar mis conocimientos aprendidos
+BackEnd Developer
+Node, Express, Java, Javascript, Typescript, Python
 
-Mi objetivo es seguir aprendiendo de este mundo tecnologico y poder utilizar mi conocimiento para crear aplicaciones en donde pueda desarrollarme como buen profesional
+My goal is to continue learning in the technological world and utilize my knowledge to create applications where I can further develop as a skilled professional.
 
-Puedes Encontrarme en:
+Can you find me:
 
 - [GitHub (@miguelbel00)](https://github.com/miguelbel00)
 - [Linkedin](https://www.linkedin.com/in/miguelbel00/)
